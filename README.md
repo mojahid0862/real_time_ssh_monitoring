@@ -80,12 +80,3 @@ This Bash script automates the monitoring of SSH login and logout events on your
 - If you encounter issues retrieving geo-location data, ensure the server has internet access and `curl` is installed.
 - Ensure the script has the necessary permissions to read `/var/log/auth.log` and write to the log files.
 
-
-```
-
-### Key Points:
-- **Simple Setup**: Instructions are clear and easy to follow for setting up the script.
-- **What it Does**: The features section gives a concise overview of the script’s capabilities.
-- **Customization**: Allows users to easily configure the Google Chat webhook URL and manage logging.
-- **Real-Time Monitoring**: Focuses on the real-time nature of the alerts and how the system works.
-
